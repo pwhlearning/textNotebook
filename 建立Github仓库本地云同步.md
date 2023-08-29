@@ -2,7 +2,7 @@
 
 ## 一、设定Typora本地存档路径
 
-![](D:\TyporaNoteBook\assets\Typora图像路径设定.png)
+![](.\assets\Typora图像路径设定.png)
 
 ## 2、安装git工具
 
